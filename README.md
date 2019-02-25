@@ -1,1 +1,1 @@
-# Applied-Machine-Learning-Project-2-
+# Applied-Machine-Learning-Course-Projects
